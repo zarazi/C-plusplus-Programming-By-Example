@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/Users/Pataro/Documents/Dev/CPP/PacktCppByExample/PacktCppByExample-build/7_Text_Editor/include/moc_mainwindow.cpp
+C:/Users/Pataro/Documents/Dev/CPP/PacktCppByExample/PacktCppByExample-master/7_Text_Editor/include/mainwindow.h

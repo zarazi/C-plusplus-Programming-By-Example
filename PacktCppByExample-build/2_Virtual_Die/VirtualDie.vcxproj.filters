@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\2_Virtual_Die\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\2_Virtual_Die\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C29359A5-F57C-3D04-8F05-C08BA8244BC2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/Users/Pataro/Documents/Dev/CPP/PacktCppByExample/PacktCppByExample-build/6_First_GUI/include/moc_mainwindow.cpp
+C:/Users/Pataro/Documents/Dev/CPP/PacktCppByExample/PacktCppByExample-master/6_First_GUI/include/mainwindow.h

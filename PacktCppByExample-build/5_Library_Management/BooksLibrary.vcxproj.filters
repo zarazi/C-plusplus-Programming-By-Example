@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\src\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\src\book_library.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\src\book_library_parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\include\book.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\include\book_library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\include\book_library_parser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\include\application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pataro\Documents\Dev\CPP\PacktCppByExample\PacktCppByExample-master\5_Library_Management\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2C196DD9-A873-354E-A2E7-10417F0DA3F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C29359A5-F57C-3D04-8F05-C08BA8244BC2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
